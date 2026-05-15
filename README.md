@@ -1,90 +1,100 @@
-# 👋 Hi, I'm Mutave  
-### AI Data • UX Design • Operations
+👋 Hi, I'm Mutave  
+AI Data Operations • UX Design (Transitioning) • Operations & Leadership
 
-I’m a multidisciplinary professional with **4.5 years of experience in AI data operations** and a growing body of work in **UX design**. My journey began in the world of AI training data, where I learned how precision, structure, and human insight shape the intelligence of modern systems. Over time, I stepped into leadership roles, supported teams, and discovered a passion for designing experiences that feel intuitive, human, and meaningful.
+I’m an AI data operations professional with 4+ years of experience in annotation, quality assurance, and workflow optimization. My background has given me strong skills in precision, structured thinking, and understanding how human input shapes machine learning systems.
 
-Today, I bring together three strengths — **AI, UX, and Operations** — to create solutions that are thoughtful, efficient, and grounded in real human needs.
+I am currently transitioning into UX design, where I combine my experience in human-AI interaction with user-centered design principles to create intuitive and meaningful digital experiences.
 
----
-
-## 🔧 Skills & Tools  
-
-### **AI & Data Operations**
-- 2D/3D annotation, LiDAR, video annotation  
-- Quality assurance & accuracy checks  
-- Process improvement & workflow optimization  
-- Human–AI interaction (training, correcting, guiding AI models)  
-- Cross‑team communication  
-
-### **UX Design**
-- User research  
-- Personas & journey mapping  
-- Wireframes & low‑fidelity concepts  
-- Problem framing & solution ideation  
-- Early prototyping (Figma)  
-
-### **Leadership & Collaboration**
-- Team Captain experience  
-- Mentoring & peer guidance  
-- Wellness & culture support  
-- Conflict resolution  
-- Clear, empathetic communication  
-
-### **Tools**
-Figma, Adobe XD, Illustrator, JIRA, Excel, HTML/CSS (AI‑assisted)
+Today, I focus on combining AI, UX, and operations thinking to explore how systems can be more efficient, human-centered, and emotionally aware.
 
 ---
 
-## 📂 Featured Projects
+🔧 Skills & Tools
 
-### 1️⃣ Perfume & Flower Shop — UX Case Study  
-A conceptual brand and UX exploration focused on visual identity, user needs, and early wireframes.  
-📁 Repository: (link after you create it)
+AI & Data Operations
+- 2D/3D annotation, LiDAR, video annotation
+- Quality assurance & accuracy validation
+- Workflow optimization
+- Human-AI feedback systems
+- Cross-team communication
 
-### 2️⃣ Ethical Dog Breeding Platform (Nairobi) — UX Case Study  
-A research‑driven project centered on ethical design, user journeys, and responsible decision‑making.  
-📁 Repository: (link after you create it)
+UX Design (Developing)
+- User research (interviews & surveys)
+- Personas & empathy mapping
+- Information architecture
+- User flows
+- Low-fidelity wireframes
+- Early prototyping (Adobe XD)
+- UX case study documentation
 
-### 3️⃣ APHROS — Video Editing Subscription Service  
-A creative business concept combining AI‑assisted web design, subscription modeling, and Behance talent sourcing.  
-📁 Repository: (link after you create it)
+Leadership & Collaboration
+- Team coordination & support
+- Mentoring and peer guidance
+- Communication & conflict resolution
+- Process improvement
 
----
-
-## 🎓 Certifications  
-- Google UX Design Professional Certificate (7 courses, 89–99% grades)  
-- Sama Training Certificates:  
-  - AI Data Annotation (2D, 3D, LiDAR, Video)  
-  - Quality Assurance & Accuracy  
-  - Workflow & Productivity Tools  
-  - Workplace Professionalism & Ethics  
-  - Communication & Collaboration  
-  - Leadership & Team Support  
-  - Time Management & Performance  
-  - Digital Skills, Cybersecurity & Career Development  
-- JIRA Agile Project Management — Udemy  
-- Adobe Illustrator CC Mastery — Udemy  
-- TOEFL iBT  
-- Goethe A1 German Certificate  
+Tools
+Adobe XD, Adobe Illustrator (learning), Google Forms, Google Docs, JIRA, Excel, HTML/CSS (basic, AI-assisted)
 
 ---
 
-## 🎓 Education  
-**International Foundation Programme in Computer Science (IFFCS)**  
-University of London — *Sama Scholarship Recipient*
+📂 Featured Projects
+
+1️⃣ Perfume & Flower Shop — UX Case Study  
+A UX research and design project exploring how to improve trust, discovery, and emotional engagement in online perfume and flower shopping.
+
+📁 Repository: (link after final upload)
 
 ---
 
-## 🌱 Currently Working On  
-- Building my UX portfolio  
-- Improving my Figma and prototyping skills  
-- Exploring AI‑assisted design workflows  
-- Applying for AI, UX, and hybrid roles  
+2️⃣ Ethical Pet Adoption / Breeding UX Concept (Nairobi)  
+A conceptual UX exploration focused on ethical decision-making, user trust, and responsible platform design for pet-related services.
+
+📁 Repository: (link after final upload)
 
 ---
 
-## 📫 Contact  
-**Email:** cmutave7@gmail.com  
-**LinkedIn:** www.linkedin.com/in/catherine-mutave-363040244
+3️⃣ APHROS — Creative Services Platform (Concept)  
+A conceptual subscription-based platform connecting clients with creative video editors and AI-assisted workflows.
+
+📁 Repository: (link after final upload)
 
 ---
+
+🎓 Certifications
+
+- Google UX Design Professional Certificate (in progress / completed courses)
+- Sama Training Programs:
+  - Data Annotation (2D, 3D, LiDAR, Video)
+  - Quality Assurance & Workflow Optimization
+  - Workplace Communication & Professional Skills
+  - Leadership & Team Support
+  - Time Management & Productivity Systems
+- Adobe Illustrator CC (Udemy)
+- JIRA Agile Project Management (Udemy)
+- TOEFL iBT
+- Goethe A1 German Certificate
+
+---
+
+🎓 Education
+
+International Foundation Programme in Computer Science (IFPCS)  
+University of London — Sama Scholarship Recipient
+
+---
+
+🌱 Currently Working On
+
+- Building UX case study portfolio
+- Improving Adobe XD prototyping skills
+- Developing research-backed design thinking
+- Exploring AI-assisted UX workflows
+- Preparing for UX / Product / AI hybrid roles
+
+---
+
+📫 Contact
+
+Email: cmutave7@gmail.com  
+LinkedIn: www.linkedin.com/in/catherine-mutave-363040244
